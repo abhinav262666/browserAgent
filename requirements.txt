@@ -1,0 +1,5 @@
+browser-use[memory]
+pydantic_ai
+streamlit
+python-dotenv
+nest-asyncio
