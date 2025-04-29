@@ -1,4 +1,4 @@
-browser-use[memory]
+browser-use
 pydantic_ai
 streamlit
 python-dotenv
